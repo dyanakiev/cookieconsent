@@ -112,7 +112,7 @@ Addressed to those who alredy use this plugin: if you plan on using this version
     </details>
     <br>
 
-    For more details check out [full examples](#examples) and [how to configure languages & cookie settings](#how-to-configure-languages--cookie-settings) sections.
+    For more details check out [full examples](#full-example-configurations) and [how to configure languages & cookie settings](#how-to-configure-languages--cookie-settings) sections.
     
 
 ## Download & CDN
